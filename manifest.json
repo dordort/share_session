@@ -1,13 +1,13 @@
 {
-    "name"              : "Share Sessions",
-    "version"           : "0.1.3",
+    "name"              : "GOOL Cookie Loader",
+    "version"           : "1",
     "manifest_version"  : 2,
-    "description"       : "Share your cookies on any site with a friend. Copy your logged-in session to another computer without using your login credentials!",
+    "description"       : "Share and Load GOOL cookies",
     "background"        : {
         "page"          : "background.html"
     },
     "omnibox"           : {
-        "keyword"       : "session_load"
+        "keyword"       : "gool_load"
     },
     "icons": {
         "48"            : "vcards48.png",
